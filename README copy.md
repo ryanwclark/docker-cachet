@@ -1,5 +1,4 @@
-# docker-cachet
-
+# hub.docker.com/r/ryanwclark/cachet
 
 [![Build Status](https://img.shields.io/docker/build/ryanwclark/cachet.svg)](https://hub.docker.com/r/ryanwclark/cachet)
 [![Docker Pulls](https://img.shields.io/docker/pulls/ryanwclark/cachet.svg)](https://hub.docker.com/r/ryanwclark/cachet)
