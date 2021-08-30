@@ -4,7 +4,6 @@
 [![Build Status](https://img.shields.io/docker/build/ryanwclark/cachet.svg)](https://hub.docker.com/r/ryanwclark/cachet)
 [![Docker Pulls](https://img.shields.io/docker/pulls/ryanwclark/cachet.svg)](https://hub.docker.com/r/ryanwclark/cachet)
 [![Docker Stars](https://img.shields.io/docker/stars/ryanwclark/cachet.svg)](https://hub.docker.com/r/ryanwclark/cachet)
-[![Docker Layers](https://images.microbadger.com/badges/image/ryanwclark/cachet.svg)](https://microbadger.com/images/ryanwclark/cachet)
 
 ## Introduction
 
@@ -21,19 +20,20 @@ This will build a container for [Cachet](https://cachethq.io/) - An open source 
 ## Table of Contents
 
 
-- [Introduction](#introduction)
-- [Authors](#authors)
-- [Table of Contents](#table-of-contents)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-  - [Quick Start](#quick-start)
-- [Configuration](#configuration)
-  - [Data-Volumes](#data-volumes)
-  - [Environment Variables](#environment-variables)
-  - [Networking](#networking)
-- [Maintenance](#maintenance)
-  - [Shell Access](#shell-access)
-- [References](#references)
+- [docker-cachet](#docker-cachet)
+  - [Introduction](#introduction)
+  - [Authors](#authors)
+  - [Table of Contents](#table-of-contents)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+    - [Quick Start](#quick-start)
+  - [Configuration](#configuration)
+    - [Data-Volumes](#data-volumes)
+    - [Environment Variables](#environment-variables)
+    - [Networking](#networking)
+  - [Maintenance](#maintenance)
+    - [Shell Access](#shell-access)
+  - [References](#references)
 
 ## Prerequisites
 
