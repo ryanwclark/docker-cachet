@@ -13,10 +13,6 @@ This will build a container for [Cachet](https://cachethq.io/) - An open source 
 
 [Changelog](CHANGELOG.md)
 
-## Authors
-
-- [Ryan Clark](https://github.com/ryanwclark)
-
 ## Table of Contents
 
 
